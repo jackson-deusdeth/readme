@@ -1,0 +1,18 @@
+.titulo {
+    margin-top: 50px;
+    margin-left: 06px;
+    margin-bottom: 30px;
+    }
+
+.fundo {background-color: rgb(255, 127, 80);
+    margin-top: 60px;
+    margin-left: 80px;
+    margin-bottom: 40px;
+}    
+
+.texto {
+    margin-bottom: 40px;
+    margin-top: 30px;
+    color: rgb(7, 7, 7);
+
+}
